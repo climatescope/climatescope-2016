@@ -95,11 +95,11 @@ Noemi Glickman,
 and the many energy sector stakeholders our analyst team has met during research trips.
 
 ### CREDITS
-All satellite imagery by [NASA](http://earthobservatory.nasa.gov/?eocn=topnav&eoci=logo).
+All satellite imagery by [NASA](https://earthobservatory.nasa.gov/?eocn=topnav&eoci=logo).
 
 <h3 class="hd-label adjacent-bottom">Developed by</h3>
 <ul class="logo-list">
   <li>
-    <a class="logo-devseed" href="http://developmentseed.org/" title="Visit Development Seed" target="_blank"><img width="750" height="128" alt="Development Seed logo" src="{{ site.domain }}{{ site.path_prefix }}/assets/images/layout/logo-devseed-flat-pos.svg" /><span>Development Seed</span></a>
+    <a class="logo-devseed" href="https://developmentseed.org/" title="Visit Development Seed" target="_blank"><img width="750" height="128" alt="Development Seed logo" src="{{ site.domain }}{{ site.path_prefix }}/assets/images/layout/logo-devseed-flat-pos.svg" /><span>Development Seed</span></a>
   </li>
 </ul>
